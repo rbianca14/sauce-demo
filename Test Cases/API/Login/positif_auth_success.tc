@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test auth</name>
+   <name>positif_auth_success</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
