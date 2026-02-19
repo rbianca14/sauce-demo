@@ -40,7 +40,7 @@ The main goal of this project is to practice and implement various automation te
    - Go to the Tests Explorer on the left sidebar.
    - Navigate to Test Cases > Login (or any other folder).
    - Double-click on a Test Case to open it.
-   - Click the Run button (top toolbar) or press Ctrl + R.
+   - Click the Run button (top toolbar) or press Ctrl + Shift + A.
 5. Running a Test Suite (Recommended for DDT):
    - Navigate to the Test Suites folder in Tests Explorer.
    - Open a specific Suite (e.g., Regression Suite).
